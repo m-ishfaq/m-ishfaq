@@ -1,6 +1,6 @@
 # Hi there, I'm Moosa Ishfaq 👋
 
-Welcome to my GitHub profile! I'm a passionate **PHP Laravel Developer** with experience in **MERN Stack, WordPress, and SEO**. I love building scalable web applications and exploring new technologies. Below, you'll find more about me, my projects, and how to get in touch.
+Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with experience in **MERN Stack, WordPress, and SEO**. I love building scalable web applications and exploring new technologies. Below, you'll find more about me, my projects, and how to get in touch.
 
 ## About Me
 
