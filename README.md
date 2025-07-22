@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** with expertise i
 
 ## 🚀 About Me
 
-- 💼 **Currently:** Software Engineer at **MTAI Software Labs**
+- 💼 **Currently:** Software Engineer at **Spire Pharmacy, UK**
 - 👨‍💻 **Skills:** PHP (Laravel), JavaScript (React, Vue, Node.js), WordPress, SEO, REST APIs, MySQL, MongoDB
 - 📚 **Learning:** Vue 3, Docker, Tailwind CSS, and advanced full-stack techniques
 - 🛠️ **Building:** E-commerce apps and launching digital products for my own brand
